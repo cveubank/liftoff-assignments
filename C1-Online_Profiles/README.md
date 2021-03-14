@@ -13,6 +13,8 @@ https://github.com/cveubank
 https://www.linkedin.com/in/cvetk4/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[2021Resume.pdf](https://github.com/cveubank/liftoff-assignments/files/6137557/2021Resume.pdf)
+
+
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
